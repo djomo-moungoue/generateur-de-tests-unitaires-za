@@ -4,6 +4,12 @@ Ce logiciel est une "proof of concept" qui vous permet de générer de facon int
 
 ## Architecture du logiciel
 ![Architecture du logiciel](architecture_du_logiciel/SystArch.jpg)
+![Architecture du logiciel](architecture_du_logiciel/SystArch1.jpg)
+![Architecture du logiciel](architecture_du_logiciel/SystArch2.jpg)
+![Architecture du logiciel](architecture_du_logiciel/SystArch3.jpg)
+![Architecture du logiciel](architecture_du_logiciel/SystArch4.jpg)
+![Architecture du logiciel](architecture_du_logiciel/SystArch-callItem.jpg)
+![Architecture du logiciel](architecture_du_logiciel/gui.jpg)
 
 ## Configuration de l'environnement de travail
 
