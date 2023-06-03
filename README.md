@@ -9,7 +9,7 @@ Ce logiciel est une "proof of concept" qui vous permet de générer de facon int
 ![Architecture du logiciel](architecture_du_logiciel/SystArch3.jpg)
 ![Architecture du logiciel](architecture_du_logiciel/SystArch4.jpg)
 ![Architecture du logiciel](architecture_du_logiciel/SystArch-callItem.jpg)
-![Architecture du logiciel](architecture_du_logiciel/gui.jpg)
+![Architecture du logiciel](architecture_du_logiciel/gui.JPG)
 
 ## Configuration de l'environnement de travail
 
