@@ -1,5 +1,10 @@
 # generateur-de-tests-unitaires-za
 
+Ce logiciel est une "proof of concept" qui vous permet de générer de facon interactive à partir d'une interface graphique des test unitaires pour vos classes Java. 
+
+## Architecture du logiciel
+![Architecture du logiciel](architecture_du_logiciel/SystArch.jpg)
+
 ## Configuration de l'environnement de travail
 
 [Installer le Coding Pack for Java](https://code.visualstudio.com/docs/java/java-tutorial) qui inclut:
